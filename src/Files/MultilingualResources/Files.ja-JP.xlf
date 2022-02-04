@@ -2541,11 +2541,11 @@
         </trans-unit>
         <trans-unit id="SecurityAdvancedFolderFiles.Text" translate="yes" xml:space="preserve">
           <source>This folder and files</source>
-          <target state="translated" state-qualifier="tm-suggestion">このフォルダとファイル</target>
+          <target state="translated">このフォルダとファイル</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedFolderSubfoldersFiles.Text" translate="yes" xml:space="preserve">
           <source>This folder, subfolders and files</source>
-          <target state="translated" state-qualifier="tm-suggestion">このフォルダ、サブフォルダおよびファイル</target>
+          <target state="translated">このフォルダ、サブフォルダおよびファイル</target>
         </trans-unit>
         <trans-unit id="SecurityAdvancedOnlyFiles.Text" translate="yes" xml:space="preserve">
           <source>Only files</source>
@@ -2653,7 +2653,7 @@
         </trans-unit>
         <trans-unit id="NavigationToolbarClosePane.Label" translate="yes" xml:space="preserve">
           <source>Close pane</source>
-          <target state="translated" state-qualifier="tm-suggestion">ペインを閉じる</target>
+          <target state="translated">ペインを閉じる</target>
         </trans-unit>
         <trans-unit id="PropertyFileDescription" translate="yes" xml:space="preserve">
           <source>File description</source>
@@ -2785,7 +2785,7 @@
         </trans-unit>
         <trans-unit id="SettingsFilesAndFoldersShowHiddenItems" translate="yes" xml:space="preserve">
           <source>Show hidden files and folders</source>
-          <target state="translated" state-qualifier="tm-suggestion">すべてのファイルとフォルダを表示</target>
+          <target state="translated">すべてのファイルとフォルダを表示</target>
         </trans-unit>
         <trans-unit id="SettingsFilesAndFoldersHideSystemItems" translate="yes" xml:space="preserve">
           <source>Hide protected operating system files (Recommended)</source>
@@ -2813,7 +2813,7 @@
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutPinToFavorites.Text" translate="yes" xml:space="preserve">
           <source>Pin to Favorites</source>
-          <target state="translated" state-qualifier="tm-suggestion">お気に入りに固定</target>
+          <target state="translated">お気に入りに固定</target>
         </trans-unit>
         <trans-unit id="SideBarUnpinFromFavorites.Text" translate="yes" xml:space="preserve">
           <source>Unpin from Favorites</source>
@@ -2849,11 +2849,11 @@
         </trans-unit>
         <trans-unit id="BundleOptionsFlyoutAddFolderMenuItem.Text" translate="yes" xml:space="preserve">
           <source>Add folder</source>
-          <target state="translated" state-qualifier="tm-suggestion">フォルダの追加</target>
+          <target state="translated">フォルダの追加</target>
         </trans-unit>
         <trans-unit id="BundleOptionsFlyoutAddItemMenuItem.Text" translate="yes" xml:space="preserve">
           <source>Add item...</source>
-          <target state="translated" state-qualifier="tm-suggestion">アイテムの追加</target>
+          <target state="translated">アイテムの追加</target>
         </trans-unit>
         <trans-unit id="Home" translate="yes" xml:space="preserve">
           <source>Home</source>
@@ -2995,7 +2995,7 @@ App Centerを使用して、アプリの使用状況を追跡し、バグを見�
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionOriginalFolder.Text" translate="yes" xml:space="preserve">
           <source>Original folder</source>
-          <target state="translated" state-qualifier="tm-suggestion">元のフォルダ</target>
+          <target state="translated">元のフォルダ</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionType.Text" translate="yes" xml:space="preserve">
           <source>Type</source>
